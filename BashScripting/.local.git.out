@@ -1,0 +1,8472 @@
+[master ac1313a] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+)
+[master 71c0084] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 134f1bb] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 20dfdc1] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 81160e0] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+), 2 deletions(-)
+[master 8df6f3e] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@moore22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master ea49668] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@moore22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 861782e] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@moore22.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 5 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 391f60c] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 4c0cb18] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7a618a4] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master fa9c739] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3fd8a3b] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e6e03e9] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 494c202] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master eadb013] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 502d429] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 17674db] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 326c634] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+[master 30542ac] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+[master 28af694] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master ce860f9] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+[master 242a134] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 3d6b2a0] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 30620e9] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1958ba3] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 1576821] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master e264392] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master f757012] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 13 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master da6e0ec] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+[master 58b7508] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+[master 00a72e2] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 1901418] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master bf8f836] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+[master f77bd62] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master fb53778] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+[master 2406e36] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+[master 55ca7a5] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+[master 7172261] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master de41c92] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master a628aa8] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master 21311dc] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+[master 6b50587] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master ccfa3e8] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 929cea7] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master d73efb1] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master eb068fc] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 2651a26] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+[master c3eea33] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 5c5365c] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 8252008] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 7062acc] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master dc8222f] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 492c0b0] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+[master 22f5f2b] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	pw.txt
+	pw.txt~
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+	tmp-message
+
+nothing added to commit but untracked files present
+[master baeb5ac] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@moore16.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+), 4 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+[master 342e965] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@moore16.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	in
+	loops.sh
+	mail_hello.sh
+	out1-1
+	out1-2
+	out2-1
+	out2-2
+	out3-1
+	out3-2
+	out4-1
+	out4-2
+	out5-1
+	out5-2
+	out6-1
+	out6-2
+	out7-1
+	out7-2
+	out8-1
+	out8-2
+	out9-1
+	out9-2
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+[master e02a092] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 21 insertions(+), 17 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+[master 40d0d2f] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@moore20.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master d3d64e5] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+)
+[master d3dccf6] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+[master 80098e2] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master da7b662] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 4 deletions(-)
+[master 2da70c1] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 55cae5c] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+[master dcd81bc] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 21 insertions(+), 12 deletions(-)
+[master 10def84] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 deletions(-)
+[master b507f89] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 11 insertions(+), 3 deletions(-)
+[master b4781da] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+[master f206084] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 289945f] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+[master eb78c7e] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+), 8 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+[master e4be5fc] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+[master 11c3a6d] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+[master 38ebdb0] Lab 2 commit
+ Committer: Jackson Fox Didat <jdidat@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	gradelab2.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	gradelab2.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	gradelab2.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	gradelab2.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	gradelab2.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	gradelab2.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	gradelab2.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	gradelab2.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	reports_dir/
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+	#monitor.sh#
+	#pwcheck.sh#
+	.#pwcheck.sh
+	.local.git.out
+	32
+	environment_variables.sh
+	example.sh
+	file_io.sh
+	gradelab2.sh
+	hello_world.sh
+	if_else.sh
+	loops.sh
+	mail_hello.sh
+	outfile.txt
+	passing_arguments.sh
+	pipes.sh
+	regex_test.txt
+	string_manipulation.sh
+	test-pass
+	test1-1.txt
+	test1-2.txt
+	test2-1.txt
+	test2-2.txt
+	test3-1.txt
+	test3-2.txt
+	test4-1.txt
+	test4-2.txt
+	test5-1.txt
+	test5-2.txt
+	test6-1.txt
+	test6-1.txt~
+	test6-2.txt
+	test7-1.txt
+	test7-2.txt
+	test8-1.txt
+	test8-2.txt
+	test9-1.txt
+	test9-2.txt
+
+nothing added to commit but untracked files present
